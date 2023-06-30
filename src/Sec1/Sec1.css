@@ -1,0 +1,21 @@
+.sec1{
+    width: 100%;
+    height: 8rem;
+    display: flex;
+    grid-template-columns: 10rem 9fr 8fr 8fr 10rem;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+        rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+    align-items: center;
+    justify-content: center;
+    color: rgb(14, 14, 117);
+    /* text-decoration: underline;  */
+    font-size: 15px;
+    
+}
+.sec1 h1 span{
+     color: rgb(15, 15, 82);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 25px;
+     opacity: 0.5;
+}
+
